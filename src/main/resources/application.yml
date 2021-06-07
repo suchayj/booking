@@ -1,0 +1,12 @@
+spring:
+  data:
+    cassandra:
+      keyspaceName: logistics
+      contactPoints: localhost
+      port: 9042
+      schemaAction: CREATE_IF_NOT_EXISTS
+
+server:
+  error:
+    include-message: always
+    include-binding-errors: always  

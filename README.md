@@ -47,11 +47,11 @@ url: http://localhost:8080/api/bookings/
 response:
 {
     "bookingRef": "957000003",
-    "containerSize": 40,
+    "containerSize": 20,
     "containerType": "REEFER",
     "origin": "Southampton",
     "destination": "Singapore",
-    "quantity": 6,
+    "quantity": 4,
     "timestamp": "2021-06-07T08:42:20Z"
 }
 ```

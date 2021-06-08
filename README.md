@@ -24,7 +24,7 @@ response:
 {
     "id": 3,
     "size": 20,
-    "type": "DRY",
+    "type": "REEFER",
     "availableSpace": 30
 }
 
